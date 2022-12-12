@@ -1,0 +1,23 @@
+body {
+    background-color: #ADBCC9;
+}
+
+#title {
+    margin-top: 2%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #40454A;
+}
+
+h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ADBCC9;
+}
+
+
+
+.row {
+    /* ,"m-4","d-flex","align-items-center"  */
+    display: flex !important;
+    align-items: center !important;
+    margin: 1.5rem !important;
+}
